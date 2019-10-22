@@ -1,5 +1,5 @@
 # HandyScripts
-![](/img/bean.jpg)
+
 
 ## Usage
 
